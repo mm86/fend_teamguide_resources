@@ -25,13 +25,17 @@
 <li>CSS Animation tool - https://daneden.github.io/animate.css/</li>
 </ul>
 
-<h3>Project 2 resources</h3>
+<h3>Project 2 Resources</h3>
 <ul>
 <li>JavaScript basics - https://developer.mozilla.org/en-US/Learn/JavaScript</li>
 <li>CodeAcademy's Javascript track - https://www.codecademy.com/tracks/javascript </li>
 <li>JavaScript and jQuery book by Jon Duckett - http://javascriptbook.com/</li>
 <li>Udacity's Javascript Basics course - https://www.udacity.com/course/viewer#!/c-ud804-nd</li>
 <li>Udacity's jQuery course - https://www.udacity.com/course/viewer#!/c-ud245-nd</li>
+<li>Impressive student projects - http://jgroeder.github.io/p2_frontend-nanodegree-resume/, http://udayanshevade.github.io/Udacity-FEND-Resume-Dragonborn/</li>
+<li>Great book on Object Oriented Programming JS - eloquentjavascript.net </li>
+<li>JavaScript validator - http://www.jslint.com/</li>
+<li>JSON lint - http://jsonlint.com/</li>
 </ul>
 
 
