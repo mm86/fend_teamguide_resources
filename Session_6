@@ -1,5 +1,29 @@
 Summary of Session 6:
 
 
-<h2>Overview of Project 2:</h2>
+Overview of Project 2:
+
+Primary objective with P2 is to become familiar with the basics of JavaScript, jQuery and learn how to use APIs. 
+We learn how to integrate HTML,CSS and JS (and jQuery) to create an interactive resume. Knowledge of JSON is important 
+for front end development because sometimes you will not have access to database and can get data only in the form of JSON files.
+Internet GET and POST requests frequently pass data in JSON format. So, learning how to use JSON can be very useful.
+
+
+JavaScript in Project 2 is only limited to the basics such as - data types, for loops, conditionals and objects (such as functions).
+
+We will not be covering Object Oriented Programming for Project 2 as it is only for project 3. So, don't worry about that.
+You are always welcome to customize the css of your resume using bootstrap and your own layout. Some inspiration are
+
+- udayan's
+- another link
+
+
+Project 2 contains 3 seperate files
+
+index.html: Everything from here to the <script> tag below is the skeleton of your website. Your code will add information 
+to each of the sections of the resume.
+helper.js: The helper.js file is in place to help insert information into html using JS. You would work with helper.js to display your information by writing functions in the resumebuilder.js.
+resumeBuilder.js: resumeBuilder.js takes the template strings in helper.js and inserts the HTML code inside our DOM. 
+
+
 
