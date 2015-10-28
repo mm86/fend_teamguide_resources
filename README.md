@@ -3,7 +3,7 @@
 <ul>
 <li>Udacity Forums (https://discussions.udacity.com/)</li>
 <li>Coach 1-on-1 Appointments</li>
-<li>Coach Office hours & Webcasts</li>
+<li>Webcasts</li>
 <li>Interacting with your team</li>
 <li>StackOverflow.com</li>
 </ul>
