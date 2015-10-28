@@ -22,8 +22,18 @@ Project 2 contains 3 seperate files
 
 index.html: Everything from here to the <script> tag below is the skeleton of your website. Your code will add information 
 to each of the sections of the resume.
-helper.js: The helper.js file is in place to help insert information into html using JS. You would work with helper.js to display your information by writing functions in the resumebuilder.js.
 resumeBuilder.js: resumeBuilder.js takes the template strings in helper.js and inserts the HTML code inside our DOM. 
+helper.js: The helper.js file is in place to help insert information into html using JS. You would work with helper.js to display your information by writing functions in the resumebuilder.js.
 
 
+JavaScript Objects:
 
+various data types in JS:
+== & ===:
+primitive vs reference:
+dot notation vs bracket notation 
+
+
+Challenge 1: reference vs primitive
+challenge 2: == vs ===; truthy and falsy
+Challenge 3: instantiation of an object
