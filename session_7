@@ -57,3 +57,22 @@ var result = add(5,5);
 var add = function(num1, num2){
   return num1+num2;
 };
+
+Functions as values:
+
+Just like objects, since functions are also objects, you can assign functions to variables, add them to objects, pass them to other functions
+as arguments and return them from functions. Basically, you can use a function anywhere you would use any other reference value.
+
+example:
+
+function helloWorld(){
+    console.log("Hello World");
+
+}
+
+helloWorld(); //outputs "Hello World"
+
+var helloWorld2 = helloWorld1;
+helloWorld2(); // also ouputs "Hello World"
+
+Since both helloWorld and helloWorld2 are now pointing to the same function, that means both have the same result when executed.
