@@ -91,3 +91,8 @@ function args(value){
 }
 
 console.log(args("Hello",25)); // outputs "Hello"
+
+
+For vs for-in vs forEach loops:
+
+http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html#for-in-loop
