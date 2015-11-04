@@ -76,3 +76,18 @@ var helloWorld2 = helloWorld1;
 helloWorld2(); // also ouputs "Hello World"
 
 Since both helloWorld and helloWorld2 are now pointing to the same function, that means both have the same result when executed.
+
+Parameters:
+
+Another unique aspect of JS functions are that you can pass any number of
+parameters to any function without causing an error. Thats because function parameters are actually stored as an array-like structure called arguments,arguments can grow to contain any number of values. 
+parameters in a function exist mostly for convenience and don't actually
+limit the number of arguments that a function can accept.
+
+example:
+
+function args(value){
+     return value;
+}
+
+console.log(args("Hello",25)); // outputs "Hello"
