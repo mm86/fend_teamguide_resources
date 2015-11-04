@@ -96,3 +96,32 @@ console.log(args("Hello",25)); // outputs "Hello"
 For vs for-in vs forEach loops:
 
 http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html#for-in-loop
+
+
+work = {
+jobs:["web developer","front end engineer"]    
+}
+
+for (var i = 0; i < work.jobs.length; i++) {
+    var job = work.jobs[i];
+    console.log(job);
+}
+
+work.jobs.forEach(function(job) {
+   console.log(job);
+});
+
+For-in:
+
+Javascript's for..in is designed to iterate over the properties of an object. Producing the key of each property. Using this key combined with the Object's bracket syntax, you can easily access the values you are after.
+
+var obj = {
+    foo: "bar",
+    fizz: "buzz",
+    moo: "muck"
+};
+
+for ( var prop in obj ) {
+    console.log(prop);      // foo / fizz / moo
+    console.log(obj[prop]); // bar / buzz / muck
+}
